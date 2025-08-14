@@ -12,9 +12,9 @@ You can load a ComboBox inside [TreeGridTemplateColumn](https://help.syncfusion.
             </DataTemplate>
          </syncfusion:TreeGridTemplateColumn.CellTemplate>
          <syncfusion:TreeGridTemplateColumn.EditTemplate>
-         <DataTemplate>
+            <DataTemplate>
                     <ComboBox ItemsSource="{Binding Path=DataContext.TitleList, ElementName=treeGrid}" />
-        </DataTemplate>
+            </DataTemplate>
         </syncfusion:TreeGridTemplateColumn.EditTemplate>
  </syncfusion:TreeGridTemplateColumn>
 ```
