@@ -19,4 +19,4 @@ You can load a ComboBox inside [TreeGridTemplateColumn](https://help.syncfusion.
  </syncfusion:TreeGridTemplateColumn>
 ```
 
-![How to Bind ViewModel ItemsSource to ComboBox inside Template in WPF / UWP TreeGrid in MVVM](Bind_viewmodel_ItemsSource_to_ComboBox_inside_template.png)
+![Loading ItemsSource to combobox inside Template](ComboBoxInsideTemplate.png)
